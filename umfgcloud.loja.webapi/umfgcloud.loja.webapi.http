@@ -1,0 +1,6 @@
+@umfgcloud.loja.webapi_HostAddress = http://localhost:5157
+
+GET {{umfgcloud.loja.webapi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

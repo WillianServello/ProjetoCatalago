@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\",
+  "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1ADE344-BBA0-47BA-A125-3D2A6A6EADAD}|umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj|c:\\users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.aplicacao.service\\classes\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1ADE344-BBA0-47BA-A125-3D2A6A6EADAD}|umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj|solutionrelative:umfgcloud.loja.aplicacao.service\\classes\\usuarioservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\controllers\\singupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\controllers\\singupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\interfaces\\servicos\\iusuarioservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\interfaces\\servicos\\iusuarioservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\extensions\\servicosextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\extensions\\servicosextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\controllers\\healthcheckcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\extensions\\swaggerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,59 +30,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioServico.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.aplicacao.service\\Classes\\UsuarioServico.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.aplicacao.service\\Classes\\UsuarioServico.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.aplicacao.service\\Classes\\UsuarioServico.cs",
-              "RelativeToolTip": "umfgcloud.loja.aplicacao.service\\Classes\\UsuarioServico.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAAAxAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ServicosExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Extensions\\ServicosExtensions.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Extensions\\ServicosExtensions.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Extensions\\ServicosExtensions.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Extensions\\ServicosExtensions.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwBcAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T01:02:34.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-11T23:20:39.239Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IUsuarioServicos.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABSAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SingupController.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\SingupController.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Controllers\\SingupController.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\SingupController.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Controllers\\SingupController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAewCoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T00:55:28.687Z",
+              "WhenOpened": "2026-03-11T23:08:47.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAwwC0AAAAJAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Program.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Program.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Program.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T00:31:44.335Z",
+              "WhenOpened": "2026-03-11T23:06:48.847Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SwaggerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Extensions\\SwaggerExtensions.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Extensions\\SwaggerExtensions.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Extensions\\SwaggerExtensions.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Extensions\\SwaggerExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:54:31.501Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "umfgcloud.loja.dominio.service",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\umfgcloud.loga.service\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-10T00:30:17.738Z",
-              "EditorCaption": ""
+              "Title": "HealthcheckController.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\HealthcheckController.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Controllers\\HealthcheckController.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\HealthcheckController.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Controllers\\HealthcheckController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-11T22:39:48.804Z"
             }
           ]
         }

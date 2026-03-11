@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.HealthcheckController",
+    "Method": "Ping",
+    "RelativePath": "Healthcheck",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
