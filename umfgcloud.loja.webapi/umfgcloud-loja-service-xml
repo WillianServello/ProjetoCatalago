@@ -20,5 +20,25 @@
             endpoints para cadastrar usuário
             </summary>
         </member>
+        <member name="M:umfgcloud.loja.webapi.Controllers.SingupController.#ctor(umfgcloud.loja.dominio.service.Interfaces.Servicos.IUsuarioServicos)">
+            <summary>
+            
+            </summary>
+            <param name="servico"></param>
+            <exception cref="T:System.ArgumentNullException"></exception>
+        </member>
+        <member name="M:umfgcloud.loja.webapi.Controllers.SingupController.SingupAsync(umfgcloud.loja.dominio.service.DTO.UsuarioDTO.SingUpRequest)">
+            <summary>
+            
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
+        <member name="T:umfgcloud.loja.webapi.Extensions.ServicosExtensions">
+            <summary>
+            define quais a implementações para as interfaces 
+            criadas ou importadas na solução
+            </summary>
+        </member>
     </members>
 </doc>

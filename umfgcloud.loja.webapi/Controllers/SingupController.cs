@@ -36,7 +36,7 @@ namespace umfgcloud.loja.webapi.Controllers
         /// <param name="dto"></param>
         /// <returns></returns>
         [HttpPost]
-        public async Task<IActionResult> SingupAsync(UsuarioDTO.SingInRequest dto)
+        public async Task<IActionResult> SingupAsync(UsuarioDTO.SingUpRequest dto)
         {
             try
             {
