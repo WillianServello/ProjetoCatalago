@@ -8,7 +8,7 @@
             services.AddSwaggerGen(options =>
             {
                 options.ResolveConflictingActions(x => x.FirstOrDefault());
-                options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, C_FILENAME_XML));
+                //options.IncludeXmlComments(Path.Combine(AppContext.BaseDirectory, C_FILENAME_XML));
             });
         }
     }

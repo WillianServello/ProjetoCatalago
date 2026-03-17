@@ -35,7 +35,7 @@ namespace umfgcloud.loja.aplicacao.service.Classes
             var resultado = await _userManager.CreateAsync(identifyUser, dto.Password);
 
             if (!resultado.Succeeded && resultado.Errors.Any())
-                throw new InvalidOperationException(resultado.Errors.Select(x => x.Description).ToString());
+                throw new InvalidOperationException(string.Join("\n", resultado.Errors.SelectMany(x => x.Description)));
 
             await _userManager.SetLockoutEnabledAsync(identifyUser, true);
             

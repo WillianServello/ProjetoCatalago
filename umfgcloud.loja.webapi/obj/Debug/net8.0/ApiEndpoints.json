@@ -8,5 +8,21 @@
     "Order": 0,
     "Parameters": [],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.SingupController",
+    "Method": "SingupAsync",
+    "RelativePath": "Singup",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "umfgcloud.loja.dominio.service.DTO.UsuarioDTO\u002BSingUpRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
   }
 ]

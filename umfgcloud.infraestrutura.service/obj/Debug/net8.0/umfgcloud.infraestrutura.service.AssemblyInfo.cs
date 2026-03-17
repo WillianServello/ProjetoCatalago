@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("umfgcloud.infraestrutura.service")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cbfd4dfb9229720e76fbe4bbe8dbe2476c1ff086")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf637665534da5eb8ae50a4a7f4e4d61fc8f1c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("umfgcloud.infraestrutura.service")]
 [assembly: System.Reflection.AssemblyTitleAttribute("umfgcloud.infraestrutura.service")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
