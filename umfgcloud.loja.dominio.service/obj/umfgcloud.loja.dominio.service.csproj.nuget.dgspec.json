@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj": {}
+    "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj": {
+    "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
+        "projectUniqueName": "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
         "projectName": "umfgcloud.loja.dominio.service",
-        "projectPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
+        "projectPath": "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj",
         "packagesPath": "C:\\Users\\facec.lab04\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\obj\\",
+        "outputPath": "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

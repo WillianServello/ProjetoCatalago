@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2sg0q0fO20=",
+  "dgSpecHash": "W6sX1AxRb0Q=",
   "success": true,
-  "projectFilePath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj",
+  "projectFilePath": "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facec.lab04\\.nuget\\packages\\bouncycastle.cryptography\\2.6.2\\bouncycastle.cryptography.2.6.2.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\google.protobuf\\3.32.0\\google.protobuf.3.32.0.nupkg.sha512",
