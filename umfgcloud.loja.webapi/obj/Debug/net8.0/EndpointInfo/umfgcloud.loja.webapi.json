@@ -10,6 +10,7 @@
         "tags": [
           "Healthcheck"
         ],
+        "summary": "verifica o estado de saúde da API",
         "responses": {
           "200": {
             "description": "OK"
@@ -22,7 +23,9 @@
         "tags": [
           "Singup"
         ],
+        "summary": "",
         "requestBody": {
+          "description": "",
           "content": {
             "application/json": {
               "schema": {

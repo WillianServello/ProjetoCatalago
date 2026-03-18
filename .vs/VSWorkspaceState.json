@@ -2,8 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\umfgcloud.loja.webapi",
-    "\\umfgcloud.loja.webapi\\Controllers"
+    "\\umfgcloud.loja.webapi\\Extensions"
   ],
-  "SelectedNode": "\\umfgcloud.loja.webapi\\Controllers\\SingupController.cs",
+  "SelectedNode": "\\umfgcloud.loja.webapi\\Extensions\\SwaggerExtensions.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LcDEuuVwkf4=",
+  "dgSpecHash": "PX/X2cWOr5E=",
   "success": true,
-  "projectFilePath": "C:\\Users\\facec.lab04\\Desktop\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj",
+  "projectFilePath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",

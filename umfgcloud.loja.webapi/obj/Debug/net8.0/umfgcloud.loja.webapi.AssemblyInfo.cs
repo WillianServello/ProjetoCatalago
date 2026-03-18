@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("umfgcloud.loja.webapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+baf637665534da5eb8ae50a4a7f4e4d61fc8f1c5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4454f8d3cfd11774d91ff85e19d58b3f47dd7fa4")]
 [assembly: System.Reflection.AssemblyProductAttribute("umfgcloud.loja.webapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("umfgcloud.loja.webapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
