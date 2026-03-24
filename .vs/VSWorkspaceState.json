@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\umfgcloud.loja.webapi",
+    "\\umfgcloud.loja.webapi\\Extensions"
   ],
-  "SelectedNode": "\\umfgcloud.loga.service.sln",
+  "SelectedNode": "\\umfgcloud.loja.webapi\\Extensions\\AutenticacaoExtensions.cs",
   "PreviewInSolutionExplorer": false
 }

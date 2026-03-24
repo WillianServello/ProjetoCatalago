@@ -17,7 +17,7 @@ namespace umfgcloud.loja.webapi
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
-            
+            builder.Services.AddAutenticacao(builder.Configuration);
             builder.Services.AddSwagger();
             builder.Services.AddDataContext(builder.Configuration);
             builder.Services.AddServicos();
@@ -33,8 +33,8 @@ namespace umfgcloud.loja.webapi
 
             app.UseHttpsRedirection();
 
+            app.UseAuthentication();
             app.UseAuthorization();
-
 
             app.MapControllers();
 

@@ -10,6 +10,22 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.SigninController",
+    "Method": "AutenticaAsync",
+    "RelativePath": "Signin",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "umfgcloud.loja.dominio.service.DTO.UsuarioDTO\u002BSingInRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "umfgcloud.loja.webapi.Controllers.SingupController",
     "Method": "SingupAsync",
     "RelativePath": "Singup",
