@@ -23,7 +23,7 @@ namespace umfgcloud.loja.dominio.service.Entidades
         {
         }
 
-        public void SerDescricao(string descricao) => Descricao = descricao?.ToUpper() ?? throw new ArgumentNullException(nameof(descricao));
+        public void SetDescricao(string descricao) => Descricao = descricao?.ToUpper() ?? throw new ArgumentNullException(nameof(descricao));
         public void SetEAN(string ean) => EAN = ean?.ToUpper() ?? throw new ArgumentNullException(nameof(ean));
         public void SetValorCompra(decimal valorCompra)
         {

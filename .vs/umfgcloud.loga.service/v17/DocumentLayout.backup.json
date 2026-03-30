@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1ADE344-BBA0-47BA-A125-3D2A6A6EADAD}|umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.aplicacao.service\\classes\\abstractservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1ADE344-BBA0-47BA-A125-3D2A6A6EADAD}|umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj|solutionrelative:umfgcloud.loja.aplicacao.service\\classes\\abstractservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\entidades\\produtoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\entidades\\produtoentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\entidades\\abstractentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\entidades\\abstractentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1ADE344-BBA0-47BA-A125-3D2A6A6EADAD}|umfgcloud.loja.aplicacao.service\\umfgcloud.loja.aplicacao.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.aplicacao.service\\classes\\produtoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +15,16 @@
       "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\interfaces\\servicos\\iprodutoservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\interfaces\\servicos\\iusuarioservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\interfaces\\servicos\\iusuarioservicos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E036145C-2A36-4501-B457-6AEC0F9A3BE7}|umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj|solutionrelative:umfgcloud.loja.webapi\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\dto\\produtodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\interfaces\\repositorios\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\interfaces\\repositorios\\iprodutorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\dto\\usuariodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.loja.dominio.service\\interfaces\\repositorios\\iabstractrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA7FEF83-C8EE-4CAC-9544-85BE2599ED97}|umfgcloud.loja.dominio.service\\umfgcloud.loja.dominio.service.csproj|solutionrelative:umfgcloud.loja.dominio.service\\interfaces\\repositorios\\iabstractrepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,115 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AbstractServico.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\AbstractServico.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.aplicacao.service\\Classes\\AbstractServico.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\AbstractServico.cs",
-              "RelativeToolTip": "umfgcloud.loja.aplicacao.service\\Classes\\AbstractServico.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAmwDEAAAA7AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T23:05:04.19Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProdutoServico.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
-              "RelativeToolTip": "umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T23:01:17.112Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProdutoEntity.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Entidades\\ProdutoEntity.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Entidades\\ProdutoEntity.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Entidades\\ProdutoEntity.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Entidades\\ProdutoEntity.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAA9wCsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:38:58.162Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AbstractEntity.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Entidades\\AbstractEntity.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Entidades\\AbstractEntity.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Entidades\\AbstractEntity.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Entidades\\AbstractEntity.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAcwCgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:38:44.505Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IUsuarioServicos.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IUsuarioServicos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:30:16.328Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "IProdutoServico.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IProdutoServico.cs",
               "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IProdutoServico.cs",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IProdutoServico.cs",
               "RelativeToolTip": "umfgcloud.loja.dominio.service\\Interfaces\\Servicos\\IProdutoServico.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:30:08.184Z",
+              "WhenOpened": "2026-03-30T23:34:22.543Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.webapi\\Controllers\\ProdutosController.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "umfgcloud.loja.webapi\\Controllers\\ProdutosController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:24:11.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoServico.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
+              "RelativeToolTip": "umfgcloud.loja.aplicacao.service\\Classes\\ProdutoServico.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAACYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T22:52:26.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "ProdutoDTO.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\DTO\\ProdutoDTO.cs",
               "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\DTO\\ProdutoDTO.cs",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\DTO\\ProdutoDTO.cs",
               "RelativeToolTip": "umfgcloud.loja.dominio.service\\DTO\\ProdutoDTO.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwCAAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACQAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:20:38.192Z",
+              "WhenOpened": "2026-03-30T22:57:11.39Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UsuarioDTO.cs",
-              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "RelativeToolTip": "umfgcloud.loja.dominio.service\\DTO\\UsuarioDTO.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IProdutoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IProdutoRepositorio.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IProdutoRepositorio.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IProdutoRepositorio.cs",
+              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IProdutoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T22:19:46.039Z",
+              "WhenOpened": "2026-03-30T22:33:44.681Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAbstractRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IAbstractRepositorio.cs",
+              "RelativeDocumentMoniker": "umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IAbstractRepositorio.cs",
+              "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IAbstractRepositorio.cs",
+              "RelativeToolTip": "umfgcloud.loja.dominio.service\\Interfaces\\Repositorios\\IAbstractRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-30T23:29:43.366Z",
+              "EditorCaption": ""
             }
           ]
         }

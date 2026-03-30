@@ -1,39 +1,64 @@
-﻿using System;
+﻿using Mapster;
+using Microsoft.AspNetCore.Http;
+using System;
+using System.Collections;
 using System.Collections.Generic;
+using System.Data.SqlTypes;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using umfgcloud.loja.dominio.service.DTO;
 using umfgcloud.loja.dominio.service.Entidades;
+using umfgcloud.loja.dominio.service.Interfaces.Repositorios;
 using umfgcloud.loja.dominio.service.Interfaces.Servicos;
 
 namespace umfgcloud.loja.aplicacao.service.Classes
 {
-    internal class ProdutoServico : IProdutoServico
+    public class ProdutoServico : AbstractServico, IProdutoServico
     {
-        public async Task AdionarAsync(ProdutoDTO.ProdutoRequest dto)
+        private readonly IProdutoRepositorio _repositorio;
+        public ProdutoServico(IHttpContextAccessor httpContextAcessor, IProdutoRepositorio repositorio) : base(httpContextAcessor)
         {
-            var produto = new ProdutoEntity(userId, userEmail);
+            _repositorio = repositorio;
         }
 
-        public Task AtualizarAsync(ProdutoDTO.ProdutoRequest dto)
+        public async Task AdicionarAsync(ProdutoDTO.ProdutoRequest dto)
         {
-            throw new NotImplementedException();
+            var produto = new ProdutoEntity(UserId, UserEmail);
+
+            //dto transita os dados inerentes a tablea
+            produto.SetDescricao(dto.Descricao);
+            produto.SetEAN(dto.EAN);
+            produto.SetValorCompra(dto.ValorCompra);
+            produto.SetValorVenda(dto.ValorVenda);
+
+            await _repositorio.AdicionarAsync(produto);
+
         }
 
-        public Task<ProdutoDTO.ProdutoResponse> ObterPorIdAsync(Guid id)
+        public async Task AtualizarAsync(ProdutoDTO.ProdutoResquestWithId dto)
         {
-            throw new NotImplementedException();
+            var produto = await _repositorio.ObterPorIdAsync(dto.Id);
+
+            //dto transita os dados inerentes a tablea
+            produto.SetDescricao(dto.Descricao);
+            produto.SetEAN(dto.EAN);
+            produto.SetValorCompra(dto.ValorCompra);
+            produto.SetValorVenda(dto.ValorVenda);
+
+            produto.Update(UserId, UserEmail);
+
+            await _repositorio.AtualizarAsync(produto);
         }
 
-        public Task<IEnumerable<ProdutoDTO.ProdutoResponse>> ObterTodosAsync()
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<ProdutoDTO.ProdutoResponse> ObterPorIdAsync(Guid id)
+            =>  (await _repositorio.ObterPorIdAsync(id)).Adapt<ProdutoDTO.ProdutoResponse>();
 
-        public Task RemoverAsync(Guid id)
-        {
-            throw new NotImplementedException();
-        }
+        public async Task<IEnumerable<ProdutoDTO.ProdutoResponse>> ObterTodosAsync()
+    => (await _repositorio.ObterTodosAsync()).Adapt<IEnumerable<ProdutoDTO.ProdutoResponse>>();
+
+        public async Task RemoverAsync(Guid id)
+         => await _repositorio.RemoverAsync(await _repositorio.ObterPorIdAsync(id));
+    
     }
 }

@@ -34,7 +34,7 @@ namespace umfgcloud.loja.dominio.service.DTO
         }
 
         public sealed class ProdutoRequest : AbstractProdutoDTO { }
-        public sealed class ProdutoResquestWithId : AbstractProdutoDTO { }
+        public sealed class ProdutoResquestWithId : AbstratProdutoWithIdDTO { }
         public sealed class ProdutoResponse : AbstractProdutoDTO { }
     }
 }

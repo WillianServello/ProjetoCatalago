@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "uAENeJe7mDA=",
+  "dgSpecHash": "/ur2b5/zvVk=",
   "success": true,
   "projectFilePath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.loja.webapi\\umfgcloud.loja.webapi.csproj",
   "expectedPackageFiles": [
@@ -10,6 +10,8 @@
     "C:\\Users\\facec.lab04\\.nuget\\packages\\k4os.compression.lz4\\1.3.8\\k4os.compression.lz4.1.3.8.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\k4os.compression.lz4.streams\\1.3.8\\k4os.compression.lz4.streams.1.3.8.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\k4os.hash.xxhash\\1.0.8\\k4os.hash.xxhash.1.0.8.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\mapster\\10.0.6\\mapster.10.0.6.nupkg.sha512",
+    "C:\\Users\\facec.lab04\\.nuget\\packages\\mapster.core\\10.0.6\\mapster.core.10.0.6.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authentication\\2.3.0\\microsoft.aspnetcore.authentication.2.3.0.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.3.0\\microsoft.aspnetcore.authentication.abstractions.2.3.0.nupkg.sha512",
     "C:\\Users\\facec.lab04\\.nuget\\packages\\microsoft.aspnetcore.authentication.cookies\\2.3.0\\microsoft.aspnetcore.authentication.cookies.2.3.0.nupkg.sha512",
