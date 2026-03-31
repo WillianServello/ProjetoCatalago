@@ -15,6 +15,13 @@
             </summary>
             <returns></returns>
         </member>
+        <member name="M:umfgcloud.loja.webapi.Controllers.SigninController.AutenticaAsync(umfgcloud.loja.dominio.service.DTO.UsuarioDTO.SingInRequest)">
+            <summary>
+             Efetua o login do usuário
+            </summary>
+            <param name="dto"></param>
+            <returns></returns>
+        </member>
         <member name="T:umfgcloud.loja.webapi.Controllers.SingupController">
             <summary>
             endpoints para cadastrar usuário
@@ -33,6 +40,13 @@
             </summary>
             <param name="dto"></param>
             <returns></returns>
+        </member>
+        <member name="T:umfgcloud.loja.webapi.Extensions.AutenticacaoExtensions">
+            <summary>
+            classe concreta é toda classe que eu utilizo para criar uma instancia em memoria
+            classe estaticas e abstratas nao tem essa possibilidade 
+            diferencao entre uma classe de extensao, concreta, abstract e static
+            </summary>
         </member>
         <member name="T:umfgcloud.loja.webapi.Extensions.ServicosExtensions">
             <summary>

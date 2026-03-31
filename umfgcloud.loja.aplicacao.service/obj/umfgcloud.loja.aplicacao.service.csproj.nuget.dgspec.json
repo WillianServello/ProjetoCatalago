@@ -67,9 +67,13 @@
               "target": "Package",
               "version": "[8.0.24, )"
             },
+            "Microsoft.IdentityModel.JsonWebTokens": {
+              "target": "Package",
+              "version": "[8.17.0, )"
+            },
             "System.IdentityModel.Tokens.Jwt": {
               "target": "Package",
-              "version": "[7.1.2, )"
+              "version": "[8.17.0, )"
             }
           },
           "imports": [
@@ -139,9 +143,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.IdentityModel.Tokens": {
+            "Microsoft.IdentityModel.JsonWebTokens": {
               "target": "Package",
-              "version": "[8.16.0, )"
+              "version": "[8.17.0, )"
             }
           },
           "imports": [

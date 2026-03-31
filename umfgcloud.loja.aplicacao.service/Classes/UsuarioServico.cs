@@ -53,8 +53,10 @@ namespace umfgcloud.loja.aplicacao.service.Classes
             var claims = new List<Claim>();
 
             //convesao do JWT
-            claims.Add(new Claim(JwtRegisteredClaimNames.Sub, identifyUser.Id));
-            claims.Add(new Claim(JwtRegisteredClaimNames.Email, identifyUser.NormalizedEmail));
+            claims.Add(new Claim(ClaimTypes.NameIdentifier, identifyUser.Id));
+            claims.Add(new Claim(ClaimTypes.Name, identifyUser.UserName));
+            claims.Add(new Claim(ClaimTypes.Email, identifyUser.Email));
+
             var token = new JwtSecurityToken
             (
                 issuer: _jwtOptions.Issuer,

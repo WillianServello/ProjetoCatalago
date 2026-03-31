@@ -15,13 +15,13 @@ namespace umfgcloud.loja.dominio.service.DTO
             [JsonPropertyName("descricao")]
             [Required(ErrorMessage ="O atributo descricao é obrigatorio")]
             public string Descricao { get; set; } = string.Empty;
-            [JsonPropertyName("descricao")]
+            [JsonPropertyName("ean")]
             [Required(ErrorMessage = "O atributo EAN é obrigatorio")]
             public string EAN { get; set; } = string.Empty;
-            [JsonPropertyName("descricao")]
+            [JsonPropertyName("valorCompra")]
             [Required(ErrorMessage = "O atributo ValorCompra é obrigatorio")]
             public decimal ValorCompra { get; set; } = decimal.Zero;
-            [JsonPropertyName("descricao")]
+            [JsonPropertyName("valorVenda")]
             [Required(ErrorMessage = "O atributo ValorVenda é obrigatorio")]
             public decimal ValorVenda { get; set; } = decimal.Zero;
         }

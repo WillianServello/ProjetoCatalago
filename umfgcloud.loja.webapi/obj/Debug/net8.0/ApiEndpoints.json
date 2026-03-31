@@ -10,6 +10,85 @@
     "ReturnTypes": []
   },
   {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.ProdutosController",
+    "Method": "AdicionarAsync",
+    "RelativePath": "Produtos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "umfgcloud.loja.dominio.service.DTO.ProdutoDTO\u002BProdutoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.ProdutosController",
+    "Method": "ObterTodosAsync",
+    "RelativePath": "Produtos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.ProdutosController",
+    "Method": "ObterPorIdAsync",
+    "RelativePath": "Produtos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.ProdutosController",
+    "Method": "AtualizarAsync",
+    "RelativePath": "Produtos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "dto",
+        "Type": "umfgcloud.loja.dominio.service.DTO.ProdutoDTO\u002BProdutoRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "umfgcloud.loja.webapi.Controllers.ProdutosController",
+    "Method": "RemoverAsync",
+    "RelativePath": "Produtos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "umfgcloud.loja.webapi.Controllers.SigninController",
     "Method": "AutenticaAsync",
     "RelativePath": "Signin",

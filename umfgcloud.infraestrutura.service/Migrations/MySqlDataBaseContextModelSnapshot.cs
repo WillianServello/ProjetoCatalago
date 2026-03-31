@@ -220,6 +220,72 @@ namespace umfgcloud.infraestrutura.service.Migrations
                     b.ToTable("AspNetUserTokens", (string)null);
                 });
 
+            modelBuilder.Entity("umfgcloud.loja.dominio.service.Entidades.ProdutoEntity", b =>
+                {
+                    b.Property<Guid>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("char(36)")
+                        .HasColumnName("ID");
+
+                    b.Property<DateTime>("CreateAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("DT_CREATE");
+
+                    b.Property<string>("CreatedByUserEmail")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("DS_USER_EMAIL_CREATE");
+
+                    b.Property<string>("CreatedByUserId")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("ID_USER_CREEATE");
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasMaxLength(1000)
+                        .HasColumnType("varchar(1000)")
+                        .HasColumnName("DS_PRODUTO");
+
+                    b.Property<string>("EAN")
+                        .IsRequired()
+                        .HasMaxLength(13)
+                        .HasColumnType("varchar(13)")
+                        .HasColumnName("CD_BARRA_EAN");
+
+                    b.Property<bool>("IsActive")
+                        .HasColumnType("tinyint(1)")
+                        .HasColumnName("IN_ACTIVE");
+
+                    b.Property<DateTime>("UpdateAt")
+                        .HasColumnType("datetime(6)")
+                        .HasColumnName("DT_UPDATE");
+
+                    b.Property<string>("UpdateByUserEmail")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("DS_USER_EMAIL_UPDATE");
+
+                    b.Property<string>("UpdateByUserId")
+                        .IsRequired()
+                        .HasColumnType("longtext")
+                        .HasColumnName("ID_USER_UPDATE");
+
+                    b.Property<decimal>("ValorCompra")
+                        .HasPrecision(14, 2)
+                        .HasColumnType("decimal(14,2)")
+                        .HasColumnName("VL_COMPRA");
+
+                    b.Property<decimal>("ValorVenda")
+                        .HasPrecision(14, 2)
+                        .HasColumnType("decimal(14,2)")
+                        .HasColumnName("VL_VENDA");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("PRODUTO", (string)null);
+                });
+
             modelBuilder.Entity("Microsoft.AspNetCore.Identity.IdentityRoleClaim<string>", b =>
                 {
                     b.HasOne("Microsoft.AspNetCore.Identity.IdentityRole", null)
