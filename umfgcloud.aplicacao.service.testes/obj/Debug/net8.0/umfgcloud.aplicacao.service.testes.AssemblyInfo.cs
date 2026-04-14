@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("umfgcloud.aplicacao.service.testes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2c7eda5a05cfcc7d6fcdd713379adbe0fdbca202")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b844f5535c975785653e8d1ac18774360fe3bf52")]
 [assembly: System.Reflection.AssemblyProductAttribute("umfgcloud.aplicacao.service.testes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("umfgcloud.aplicacao.service.testes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

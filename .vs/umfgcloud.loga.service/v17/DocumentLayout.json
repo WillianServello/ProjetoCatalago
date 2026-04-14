@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.aplicacao.service.testes\\classes\\abstractservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|solutionrelative:umfgcloud.aplicacao.service.testes\\classes\\abstractservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B6D44E77-A5C4-4BD4-856A-2A0811A0E19D}|umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.infraestrutura.service\\context\\mysqldatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B6D44E77-A5C4-4BD4-856A-2A0811A0E19D}|umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj|solutionrelative:umfgcloud.infraestrutura.service\\context\\mysqldatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.aplicacao.service.testes\\classes\\usuarioservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|solutionrelative:umfgcloud.aplicacao.service.testes\\classes\\usuarioservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.aplicacao.service.testes\\classes\\abstractservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|solutionrelative:umfgcloud.aplicacao.service.testes\\classes\\abstractservicotestes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.aplicacao.service.testes\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CCC00550-29F4-4103-A1C8-AB1CD1D9307B}|umfgcloud.aplicacao.service.testes\\umfgcloud.aplicacao.service.testes.csproj|solutionrelative:umfgcloud.aplicacao.service.testes\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6D44E77-A5C4-4BD4-856A-2A0811A0E19D}|umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj|c:\\users\\facec.lab04\\source\\repos\\willianservello\\projetocatalago\\umfgcloud.infraestrutura.service\\context\\mysqldatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6D44E77-A5C4-4BD4-856A-2A0811A0E19D}|umfgcloud.infraestrutura.service\\umfgcloud.infraestrutura.service.csproj|solutionrelative:umfgcloud.infraestrutura.service\\context\\mysqldatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "AbstractServicoTestes.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.aplicacao.service.testes\\Classes\\AbstractServicoTestes.cs",
               "RelativeDocumentMoniker": "umfgcloud.aplicacao.service.testes\\Classes\\AbstractServicoTestes.cs",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.aplicacao.service.testes\\Classes\\AbstractServicoTestes.cs",
               "RelativeToolTip": "umfgcloud.aplicacao.service.testes\\Classes\\AbstractServicoTestes.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHcBAAAAAAAAAAAAAHcBAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T23:29:30.103Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "MySqlDataBaseContext.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.infraestrutura.service\\Context\\MySqlDataBaseContext.cs",
               "RelativeDocumentMoniker": "umfgcloud.infraestrutura.service\\Context\\MySqlDataBaseContext.cs",
@@ -56,20 +56,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UsuarioServicoTestes.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.aplicacao.service.testes\\Classes\\UsuarioServicoTestes.cs",
               "RelativeDocumentMoniker": "umfgcloud.aplicacao.service.testes\\Classes\\UsuarioServicoTestes.cs",
               "ToolTip": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.aplicacao.service.testes\\Classes\\UsuarioServicoTestes.cs",
               "RelativeToolTip": "umfgcloud.aplicacao.service.testes\\Classes\\UsuarioServicoTestes.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T23:07:38.535Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MSTestSettings.cs",
               "DocumentMoniker": "C:\\Users\\facec.lab04\\source\\repos\\WillianServello\\ProjetoCatalago\\umfgcloud.aplicacao.service.testes\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "umfgcloud.aplicacao.service.testes\\MSTestSettings.cs",
